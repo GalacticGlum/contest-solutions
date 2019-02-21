@@ -1,0 +1,1 @@
+print((lambda y,m: 2*m-y)(*[int(input()) for i in range(2)]))
